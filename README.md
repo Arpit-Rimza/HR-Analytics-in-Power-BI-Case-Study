@@ -1,2 +1,3 @@
 # HR-Analytics-in-Power-BI-Case-Study
-This Power BI case study analyses HR data for Atlas Labs, a software company. It explores data import, analysis, and visualization, using Power Query and DAX. The focus is on attrition and identifying factors impacting it, aiding retention strategies.
+
+In this Power BI case study, I have explored a dataset for a fictitious software company called Atlas Labs. This report focuses on importing, analysing, and visualising Human Resources data in Power BI. I have carried out exploratory data analysis and have used Power Query and DAX to help build powerful visualisations. I have finished my analysis by diving deeper into attrition and what factors impact attrition. This analysis will help the organisation determine what action they will need to take to retain more employees. I have finalised the case study by making design changes to the report that provides a clean, branded design.
